@@ -1,6 +1,6 @@
 ![sagnet](figs/sagnet.png)
 
-# Style-Agnostic-Networks (SagNets)
+# Style-Agnostic Networks (SagNets)
 By Hyeonseob Nam, HyunJae Lee, Jongchan Park, Wonjun Yoon, and Donggeun Yoo.
 
 Lunit, Inc.
