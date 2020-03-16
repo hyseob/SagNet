@@ -1,2 +1,4 @@
-script
-checkpoint
+script/
+checkpoint/
+__pycache__/
+*.pyc
