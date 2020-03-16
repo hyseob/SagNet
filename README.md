@@ -1,6 +1,4 @@
 # Style-Agnostic-Networks (SagNets)
-[Reducing Domain Gap via Style-Agnostic Networks](https://arxiv.org/abs/1910.11645)
-
 By Hyeonseob Nam, HyunJae Lee, Jongchan Park, Wonjun Yoon, and Donggeun Yoo.
 
 Lunit, Inc.
@@ -8,6 +6,7 @@ Lunit, Inc.
 ### Introduction
 This repository contains a pytorch implementation of Style-Agnostic Networks (SagNets) for Domain Generalization.
 They are also the basis of our method which won the first place in Semi-Supervised Domain Adaptation of [Visual Domain Adaptation (VisDA)-2019 Challenge](https://ai.bu.edu/visda-2019/).
+Details are described in "[Reducing Domain Gap via Style-Agnostic Networks](https://arxiv.org/abs/1910.11645)".
 
 ### Citation
 If you use this code in your research, please cite:
