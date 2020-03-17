@@ -43,3 +43,4 @@ python train.py --sources Rest --targets [domain] --method sagnet --sagnet --bat
 ```
 python train.py --sources [domain] --targets Rest --method sagnet --sagnet --batch-size 96 -g [gpus]
 ```
+Results are saved into ```./checkpoint```
