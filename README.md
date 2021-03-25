@@ -8,7 +8,7 @@ Lunit, Inc.
 ### Introduction
 This repository contains a pytorch implementation of Style-Agnostic Networks (SagNets) for Domain Generalization.
 It is also an extension of our method which won the first place in Semi-Supervised Domain Adaptation of [Visual Domain Adaptation (VisDA)-2019 Challenge](https://ai.bu.edu/visda-2019/).
-Details are described in [Reducing Domain Gap by Reducing Style Bias](https://arxiv.org/abs/1910.11645) (To appear CVPR2021).
+Details are described in [Reducing Domain Gap by Reducing Style Bias](https://arxiv.org/abs/1910.11645) (To appear CVPR 2021).
 
 ### Citation
 If you use this code in your research, please cite:
