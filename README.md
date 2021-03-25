@@ -14,7 +14,7 @@ Details are described in [Reducing Domain Gap by Reducing Style Bias](https://ar
 If you use this code in your research, please cite:
 
 ```
-@article{nam2019reducing,
+@article{nam2021reducing,
   title={Reducing Domain Gap by Reducing Style Bias},
   author={Nam, Hyeonseob and Lee, HyunJae and Park, Jongchan and Yoon, Wonjun and Yoo, Donggeun},
   journal={arXiv preprint arXiv:1910.11645},
