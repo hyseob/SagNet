@@ -15,7 +15,7 @@ If you use this code in your research, please cite:
 
 ```
 @article{nam2019reducing,
-  title={Reducing Domain Gap via Style-Agnostic Networks},
+  title={Reducing Domain Gap by Reducing Style Bias},
   author={Nam, Hyeonseob and Lee, HyunJae and Park, Jongchan and Yoon, Wonjun and Yoo, Donggeun},
   journal={arXiv preprint arXiv:1910.11645},
   year={2019}
